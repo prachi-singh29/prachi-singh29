@@ -1,5 +1,5 @@
 <h1 align="center">Prachi Singh</h1>
-<h3 align="center">Computer Vision & Machine Learning enthusiast, currently working in QA and test automation</h3>
+<h3 align="center">Computer Vision & Machine Learning enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/prachi-singh-322b50289" target="_blank">
@@ -30,6 +30,7 @@ Outside of internships, I enjoy building projects that let me experiment with AI
 At the moment, I'm focused on strengthening my skills in Data Structures & Algorithms, Python, system design fundamentals, and backend development, while preparing for software engineering roles.
 
 When I'm not coding, you'll probably find me reading a good book, listening to music, or learning something new just because it caught my interest.
+
 ---
 
 ### Tech I work with
