@@ -2,7 +2,7 @@
 <h3 align="center">Computer Vision & Machine Learning enthusiast, currently working in QA and test automation</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/prachi-singh" target="_blank">
+  <a href="https://linkedin.com/in/prachi-singh-322b50289" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:prachis.2291@gmail.com">
@@ -17,12 +17,19 @@
 
 ### About me
 
-I'm a final-year Computer Science student at VIT Bhopal University, and I spend most of my time somewhere between competitive programming, computer vision projects, and test automation work. I like problems that have a clean, verifiable answer, whether that's a DSA problem with a right output or a test suite that either passes or doesn't.
+I'm a final-year Computer Science student at VIT Bhopal University with a strong interest in software engineering, AI/ML, and building practical solutions to real-world problems.
 
-I'm currently working as an Executive Grade Consultant (Intern) at Datamatics, where I build Playwright and TypeScript test suites and CI/CD pipelines for an AI-based data cleaning platform. Before that, I interned at Aurionpro Solutions, where I worked on an invoice-reading pipeline using LayoutLMv2 and rule-based extraction.
+Most of my time is currently split between solving DSA problems, working on personal AI projects, and exploring software testing and automation. I enjoy writing code that is both reliable and maintainable, whether it's developing a computer vision application, automating test cases, or debugging an API. I'm always looking for opportunities to learn new technologies and improve the way software is built and tested.
 
-Outside of work, I build computer vision projects for fun, mostly around sports analytics and gesture recognition, and I'm currently prepping for campus placements alongside all of this.
+Recently, I interned as an Executive Grade Consultant at Datamatics, where I worked on manual UI testing, API testing, and test automation using Playwright and TypeScript for an AI-based data cleaning platform. The experience gave me valuable exposure to the software development lifecycle, quality assurance, and working with real-world enterprise applications.
 
+Before that, I was a Software Intern at Aurionpro Solutions, where I built an invoice information extraction pipeline using LayoutLMv2, Python, and rule-based techniques to process diverse invoice formats. That internship sparked my interest in combining AI with practical business applications.
+
+Outside of internships, I enjoy building projects that let me experiment with AI and computer vision. Some of my favorites include PlayVision, an AI-powered football analytics system using YOLOv8 and ByteTrack, and AeroGest, a gesture-controlled virtual mouse built with OpenCV and MediaPipe.
+
+At the moment, I'm focused on strengthening my skills in Data Structures & Algorithms, Python, system design fundamentals, and backend development, while preparing for software engineering roles.
+
+When I'm not coding, you'll probably find me reading a good book, listening to music, or learning something new just because it caught my interest.
 ---
 
 ### Tech I work with
@@ -59,13 +66,10 @@ Outside of work, I build computer vision projects for fun, mostly around sports 
 
 **PlayVision: AI Powered Player Performance Tracking**
 A football analytics system that uses YOLOv8, ByteTrack, and SigLIP for real-time player and ball tracking, team identification, and spatial analysis. It clusters player positions with UMAP to compute things like ball possession, player speed, and territory control, and renders a tactical radar view meant to help coaching, scouting, and fan engagement.
-[Link to project](#)
+
 
 **Aero Gest**
 A virtual mouse system built around hand gesture recognition. It uses OpenCV for video capture and MediaPipe for real-time hand tracking, then maps gestures to cursor movement, clicks, and system controls like volume and brightness through PyAutoGUI, Pycaw, and Screen Brightness Control. Meant as a touchless alternative for assistive or contactless setups.
-[Link to project](#)
-
-*(Replace the placeholder links above with the actual repo URLs.)*
 
 ---
 
